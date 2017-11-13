@@ -1,3 +1,3 @@
-# Final Project - Where I've Been
+# Final Project - Remote Workspaces
 
-A better website where users can track where they have been on a map.
+A website to view workspaces in any location so users can confidently travel and work from anywhere.
